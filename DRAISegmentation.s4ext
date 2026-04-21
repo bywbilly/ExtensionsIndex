@@ -1,0 +1,12 @@
+scm git
+scmurl https://github.com/DeepReasoningAI/SlicerDRAISegmentation.git
+scmrevision main
+depends NA
+build_subdirectory inner-build
+homepage https://github.com/DeepReasoningAI/SlicerDRAISegmentation
+contributors DRAI Team (Deep Reasoning AI)
+category Segmentation
+iconurl https://raw.githubusercontent.com/DeepReasoningAI/SlicerDRAISegmentation/main/DRAISegmentation/Resources/Icons/DRAISegmentation.jpg
+status Beta
+description AI-powered segmentation for Spine/Pelvis CT and Aorta-Iliac-Femoral CTA with cloud inference in 3D Slicer.
+screenshoturls https://raw.githubusercontent.com/DeepReasoningAI/SlicerDRAISegmentation/main/Screenshots/UI.png https://raw.githubusercontent.com/DeepReasoningAI/SlicerDRAISegmentation/main/Screenshots/SpinePelvis.png https://raw.githubusercontent.com/DeepReasoningAI/SlicerDRAISegmentation/main/Screenshots/AIF.png
