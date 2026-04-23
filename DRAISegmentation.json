@@ -3,7 +3,7 @@
   "build_dependencies": [],
   "build_subdirectory": "inner-build",
   "category": "Segmentation",
-  "scm_revision": "d29314e5d4e69dc8e6cced90a4de7c6ac8a2a6aa",
+  "scm_revision": "ff07f81a47c8794c767137e0397d90900e2688a8",
   "scm_url": "https://github.com/DeepReasoningAI/SlicerDRAISegmentation.git",
   "tier": 1
 }
